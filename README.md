@@ -34,42 +34,56 @@ It focuses on transforming raw transactional data into actionable business insig
 * High-level KPIs (Sales, Profit, Orders, AOV, Margin)
 * Category and regional performance
 * Top products overview
+![PAGE 1](<Project Screenshots/1.png>)
+
 
 2\. Sales Intelligence
 
 * Sales trends with forecasting
 * Monthly and quarterly analysis
 * Moving average trends
+![PAGE 2](<Project Screenshots/2.png>)
+
 
 3\. Product Performance
 
 * Product-level sales and profit
 * Category distribution
 * Profitability comparison
+![PAGE 3](<Project Screenshots/3.png>)
+
 
 4\. Customer Analysis
 
 * Customer segmentation
 * Age-based analysis
 * Rating vs Sales relationship
+![PAGE 4](<Project Screenshots/4.png>)
+
 
 5\. Platform Analysis
 
 * Sales and profit by platform
 * Category contribution across platforms
 * Payment method distribution
+![PAGE 5](<Project Screenshots/5.png>)
+
 
 6\. Profit \& Discount Analysis
 
 * Discount vs Profit relationship
 * Margin comparison across categories
 * Discount trend over time
+![PAGE 6](<Project Screenshots/6.png>)
+
 
 7\. Performance Summary
 
 * Key business insights
 * Risk identification
 * Actionable recommendations
+![PAGE 7](<Project Screenshots/7.png>)
+
 
 
 📈 Key Insights
